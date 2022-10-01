@@ -1,8 +1,8 @@
 import React from 'react'
 import "./home.css"
-import Social from './component/Social'
-import Data from './component/Data'
-import ScrollDown from './component/ScrollDown'
+import Social from './home_component/Social'
+import Data from './home_component/Data'
+import ScrollDown from './home_component/ScrollDown'
 
 function Home() {
   return (

@@ -58,7 +58,7 @@ const Data = () => {
       </h1>
 
       <h3 className="home_subtitle">Software Engineer</h3>
-      <p className="home_description"> ปัจจุบันกำลังศึกษาอยู่ชั้นปีที่ 3 ภาควิชาวิศวกรรมคอมพิวเตอร์ มีความสนใจในด้าน Software, Data Analytics และ Cyber Security</p>
+      <p className="home_description"> มีความสนใจเป็นพิเศษในด้าน Software, Data Analytics และ Cyber Security</p>
       <a href="#contact" className="button button--flex">
         Say Hello
         <svg
