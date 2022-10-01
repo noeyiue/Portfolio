@@ -6,13 +6,13 @@ const Info = () => {
         <div className="about_box">
             <i className='bx bx-test-tube about_icon'></i>
             <h3 className="about_title">Member</h3>
-            <span className="about_subtitle">LAB</span>
+            <span className="about_subtitle">Multimedia Analysis and Discovery LAB</span>
         </div>
 
         <div className="about_box">
             <i className='bx bx-stats about_icon'></i>
             <h3 className="about_title">Teacher Assistance</h3>
-            <span className="about_subtitle">รายวิชา</span>
+            <span className="about_subtitle">รายวิชาทฤษฎีความน่าจะเป็นสำหรับวิศวกรคอมพิวเตอร์</span>
         </div>
 
         <div className="about_box">
